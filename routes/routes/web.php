@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::resource('pages',\App\Http\Controllers\PageController::class); //crea 7 rutas posibles
