@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58dba8d3-a475-4e4f-a4f3-54d59c78b187" name="Default Changelist" comment="" />
+    <list default="true" id="58dba8d3-a475-4e4f-a4f3-54d59c78b187" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eloquent" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -157,7 +159,8 @@
       <workItem from="1602714757012" duration="1310000" />
       <workItem from="1602716227331" duration="88000" />
       <workItem from="1602716990989" duration="857000" />
-      <workItem from="1602771323776" duration="395000" />
+      <workItem from="1602771323776" duration="1041000" />
+      <workItem from="1602772750202" duration="9000" />
     </task>
     <servers />
   </component>
@@ -169,6 +172,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="716" y="340" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1602771368773" />
+    <state x="1211" y="275" key="FileChooserDialogImpl" timestamp="1602772755732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1211" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602772755732" />
     <state x="438" y="137" key="SettingsEditor" timestamp="1602717225309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
