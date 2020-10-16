@@ -38,7 +38,7 @@ class PostController extends Controller
      */
     public function store(PostRequest $request)
     {
-        dd($request->all());
+        //dd($request->all());
         //salvar
         $post = Post::create([
             'user_id'=>auth()->user()->id
@@ -72,7 +72,7 @@ class PostController extends Controller
      */
     public function edit(Post $post)
     {
-        //
+        return view('posts.edit',compact('post'));
     }
 
     /**
